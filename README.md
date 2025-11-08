@@ -38,7 +38,7 @@ With a background in teaching, tech, and secure digital communication, I bring:
 
 ## 🌐 Connect with Me
 
-- 📫 LinkedIn: [linkedin.com/in/tinashe-zacariah](https://linkedin.com/in/tinashe-zacariah)
+- 📫 LinkedIn: [linkedin.com/in/tinashe-zacariah](https://linkedin.com/in/tinashe-zacariah-nyandoro-787b9723a)
 - 📁 GitHub: [github.com/ZacariahCyberSec](https://github.com/ZacariahCyberSec)
 - ✉️ Email: t.nyandoro@yahoo.com
 
