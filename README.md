@@ -18,12 +18,32 @@ I specialize in:
 I actively build real-world cybersecurity labs and document them on GitHub.
 
 ---
+## 🔐 Featured SOC Projects
 
-## 🛡️ Recent Project: Automating Access Control List Updates
+### 🚨 Brute Force Detection Lab
+- Detected repeated failed SSH login attempts
+- Identified malicious IP activity
+🔗 https://github.com/ZacariahCyberSec/log-analysis-brute-force-detection
 
-📌 Project: [Update a File Through a Python Algorithm](https://github.com/ZacariahCyberSec/update-file-access-list)  
-🛠 Built a Python script that automates the removal of unauthorized IP addresses from access lists.  
-✅ Tech used: `read()`, `split()`, `remove()`, file I/O, loops, conditionals.
+---
+
+### 🔍 Login Anomaly Detection
+- Detected unusual login times and suspicious behavior
+- Simulated SOC investigation workflow
+🔗 https://github.com/ZacariahCyberSec/Login-anomaly-detection
+
+---
+
+### 🌐 Network Traffic Analysis (SYN Scan Detection)
+- Detected SYN scan activity using Wireshark and Nmap
+- Analyzed network traffic patterns
+🔗 https://github.com/ZacariahCyberSec/Wireshark-Nmap-SYN-scan-Detection
+
+---
+
+### 🛡️ Access Control Automation
+- Automated removal of unauthorized IP addresses using Python
+🔗 https://github.com/ZacariahCyberSec/Cybersecurity-python-algorithms
 
 ---
 
@@ -31,7 +51,6 @@ I actively build real-world cybersecurity labs and document them on GitHub.
 - ✅ Google Cybersecurity Professional Certificate – **Completed**
 - 🟡 IBM Cybersecurity Analyst Certificate – *In Progress*
 - 🟡 CompTIA CySA+ (CS0-003) – *Studying*
-- ✅ ISC2 Certified in Cybersecurity (CC)
 
 ---
 
