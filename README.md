@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tinashe Zacariah Nyandoro — Certified Cybersecurity Professional
+# 👋 Hi, I'm Tinashe Zacariah Nyandoro — Entry-Level SOC Analyst | Threat Detection | Python Log Analysis | Blue Team
 
 Welcome to my GitHub! I’m an entry-level Cybersecurity Analyst with hands-on training and a strong foundation in:
 
