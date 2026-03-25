@@ -7,7 +7,15 @@ Welcome to my GitHub! I’m an entry-level Cybersecurity Analyst with hands-on t
 - 🧠 Security operations (SIEM, log analysis, network monitoring)
 - 🧰 Tools: Wireshark, Burp Suite, Linux CLI, and more
 
-I'm officially **certified by Google** in Cybersecurity and currently completing the **IBM Cybersecurity Analyst Certificate** and **CompTIA CySA+** studies.
+I am an entry-level SOC Analyst with hands-on experience in threat detection, log analysis, and Python-based security automation.
+
+I specialize in:
+• Detecting brute force attacks
+• Identifying login anomalies
+• Analyzing Linux authentication logs
+• Building security tools using Python
+
+I actively build real-world cybersecurity labs and document them on GitHub.
 
 ---
 
